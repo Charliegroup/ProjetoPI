@@ -1,0 +1,76 @@
+Tem que o termostato entre 90 e 130 graus
+
+Ferramentas padrões
+
+antes de desmontar tem que despressurizar (retirar a graxa ou o oleo), removendo as valvulas 3/10 e 3/20
+
+remover os tubos flexiveis 2/20 e 2/30
+
+remover os tubos rigidos 3/100
+
+afroxar a porca 3/80 para remover a pressao e remover o cotovelo 3/90
+
+afroxar a porca 3/150 para remover a junção 3/140
+
+remover o tubo de suporte 3/110
+
+afroxar os 4 parafusos 3/120
+
+mantenha as 4 arruelas 3/130
+
+mantenha a abraçadeira 3/110 e (rolamento, cilindro) 3/160
+
+remover separador 3/200
+
+afroxar a porca 3/210
+
+manter arruela 3/220 o pino 3/230 manter equipado o rolamento 3/170
+
+remover as duas buxas 3/190(buxas precisam ser desmontadas numa temperatuxa maxima de 100º)
+
+		Como retirar esta na pagina 301
+
+B ----- 
+
+remover o descarregador estatico 3/590
+
+	remover parafuso 3/600 manter as arruelas 3/6i0 e depois remover o descarregador estatico
+	
+C -----
+
+remover o "Arm torque" 3/460
+
+	remover "fita" 3/400
+		remover as 6 porcas 3/480 e o tubo 3/410, deixar a 6 arruelas 3/490 e as 3/420
+		remover os 4 "collars" 3/440 e deixar os 6 parafusos 3/500, 3/510 e 3/450
+		deixar os 4 flanger 3/430 e o bonding strip 3/400
+	Remover com a ferramenta 50381 os dois pinos 3/520 e 3/530 segurando o "holding the arm torque"
+	
+
+D ----- 
+
+desmontar arm torque
+
+	remover o separador 5/100, destravar e remover a porca 5/110 e mantenha loking whaser 5/120 e arruela de ajuste 5/130
+	usar a dural drift e um martelo para remover o pino 5/140
+	separar as duas metades do "arm torque" 5/10 e 5/50 e manter a ball joint cage 5/160 e as duas metades da ball joint 5/180
+	em cima da arm torque remover as porcas 3/550 e mantenha  as duas arruelas 3/560 e 3/570 e os parafusos 3/580. Libere o tipe guide 3/540
+
+remover as seis buchas 5/30, 5/40 e 5/70 e a ball joint cage 5/80 (figura 302)
+	Desmontar numa temperatura de 100ºC e evitar impacto pois pode danificar
+	- duas buchas 5/40 usar dural drif 
+	- as 4 buchas 5/30 e 5/70 e ball joint cage 5/80 usando o dural tapered drift
+	
+	PAGINA 304
+
+
+
+
+
+
+
+
+
+
+
+
