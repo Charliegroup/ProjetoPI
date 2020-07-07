@@ -2,7 +2,6 @@
 
 # Projeto Integrador Transversal - Fatec São José dos Campos
 
-Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com o SPC Brasil para um Projeto Integrador, onde nós alunos tivemos a oportunidade de trabalhar com uma empresa real, com problemas reais, buscar soluções e implantá-las através da metodologia SCRUM.
 
 ## - Disciplinas integradas
 * ### Projeto Integrador 
@@ -37,5 +36,6 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com o SPC Brasi
 ## - Objetivo
 
 Desenvolver uma ferramenta para desmontagem e/ou instalação do Cilindro do motor Turbo Hélice IO-360-N1A, da Aeronave Embraer EMB-120.
+
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Templates_Power_Point/Aviao_EMB_120_Exemplo.jpg)
 
