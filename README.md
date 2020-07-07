@@ -1,6 +1,10 @@
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Templates_Power_Point/Logo_Fatec.jpg)
 
-# Projeto Integrador Transversal - Fatec São José dos Campos
+#⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Projeto Integrador Transversal
+
+##⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Fatec São José dos Campos
+ 
+
 
 
 ## - Disciplinas integradas
