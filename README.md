@@ -27,9 +27,9 @@
 
 
 ## - Grupo
-* Ricardo Donizeti dos Santos - Líder/ Projetista
-* Paulo Rafael Ribeiro - Vice Líder/ Anotador
-* Thiago dos Reis Souza - Gestor/ Atas e diário e bordo
+* ###Ricardo Donizeti dos Santos - Líder/ Projetista
+* ###Paulo Rafael Ribeiro - Vice Líder/ Anotador
+* ###Thiago dos Reis Souza - Gestor/ Atas e diário e bordo
 
 
 ## - Objetivo
@@ -39,9 +39,11 @@ Desenvolver uma ferramenta para desmontagem e/ou instalação do Cilindro do mot
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Templates_Power_Point/Aviao_EMB_120_Exemplo.jpg)
 
 # Ferramentas:
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Perspectivas/Perspectiva_A_README.png)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀* ###Chave A⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Perspectivas/Perspectiva_A_README.png)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Perspectivas/Perspectiva_B_README.png)
+
 
 
 
