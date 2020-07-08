@@ -39,12 +39,6 @@ Desenvolver uma ferramenta para desmontagem e/ou instalação do Cilindro do mot
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Templates_Power_Point/Aviao_EMB_120_Exemplo.jpg)
 
 # Ferramentas:
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀* ###Chave A⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Perspectivas/Perspectiva_A_README.png)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Perspectivas/Perspectiva_B_README.png)
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-
-
-
