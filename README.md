@@ -30,17 +30,17 @@
 * ### Desenho Técnico de Aeronaves
   Profª. Fabiana Eloisa Passador
 * ### Informática Aplicada a Aeronáutica
-  Profª. Fabrício Galende Marques de Carvalho
+  Prof. Fabrício Galende Marques de Carvalho
 * ### Inglês
-  Profª. Nilo Jeronimo Vieira
+  Prof. Nilo Jeronimo Vieira
 * ### Comunicação Oral e Escrita
   Profª. Maria Goreti Lopes Cepinho
-* ### Calculo Aplicado a Aeronáutica
+* ### Cálculo Aplicado a Aeronáutica
   Profª. Danielle Cristina de Morais Amorim
 * ### Física e Quimica Aplicada a Aeronáutica
   Profª. Danielle Cristina de Morais Amorim
 * ### Meio Ambiente, Saude e Seguranca no Trabalho
-  Profª. Joares Lidovino dos Reis
+  Prof. Joares Lidovino dos Reis
 * ### Legislação Social Aplicada a Aeronáutica
   Profª. Ana Cecília Rodrigues Medeiros
 
