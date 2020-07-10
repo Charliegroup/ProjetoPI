@@ -7,17 +7,17 @@
 # - Descrição das Pastas
 
 * ### Apresentações 
-  Contém as apresentações desenvolvidas pelo grupo;
+             ∟Contém as apresentações desenvolvidas pelo grupo;
 * ### Atas 
-  Contém as ATAS desenvolvidas durante o projeto;
+             ∟Contém as ATAS desenvolvidas durante o projeto;
 * ### CAD 
-  Contém os projetos 3D e 2D das peças feitas no CATIA V5;
+             ∟Contém os projetos 3D e 2D das peças feitas no CATIA V5;
 * ### Cálculos 
-  Contém os calculos aplicados e utilizados no projeto;
+             ∟Contém os calculos aplicados e utilizados no projeto;
 * ### Documentos
-  Documentações importantes ao projeto;
+             ∟Documentações importantes ao projeto;
 * ### Imagens
-  Contém todas imagens e templates referentes ao projeto;
+             ∟Contém todas imagens e templates referentes ao projeto;
 
 
 
@@ -27,11 +27,11 @@
   Prof. Alexandre Zaramela
 * ### Familiarização Aeronáutica 
   Prof. Felix Arlindo Strottmann
-* ### Desenho Tecnico de Aeronaves
+* ### Desenho Técnico de Aeronaves
   Profª. Fabiana Eloisa Passador
-* ### Informatica Aplicada a Aeronáutica
+* ### Informática Aplicada a Aeronáutica
   Profª. Fabrício Galende Marques de Carvalho
-* ### Ingles
+* ### Inglês
   Profª. Nilo Jeronimo Vieira
 * ### Comunicação Oral e Escrita
   Profª. Maria Goreti Lopes Cepinho
