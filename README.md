@@ -7,17 +7,17 @@
 # - Descrição das Pastas
 
 * ### Apresentações 
-             ∟Contém as apresentações desenvolvidas pelo grupo;
+             ➥Contém as apresentações desenvolvidas pelo grupo;
 * ### Atas 
-             ∟Contém as ATAS desenvolvidas durante o projeto;
+             ➥Contém as ATAS desenvolvidas durante o projeto;
 * ### CAD 
-             ∟Contém os projetos 3D e 2D das peças feitas no CATIA V5;
+             ➥Contém os projetos 3D e 2D das peças feitas no CATIA V5;
 * ### Cálculos 
-             ∟Contém os calculos aplicados e utilizados no projeto;
+             ➥Contém os cálculos aplicados e utilizados no projeto;
 * ### Documentos
-             ∟Documentações importantes ao projeto;
+             ➥Documentações importantes ao projeto;
 * ### Imagens
-             ∟Contém todas imagens e templates referentes ao projeto;
+             ➥Contém todas imagens e templates referentes ao projeto;
 
 
 
