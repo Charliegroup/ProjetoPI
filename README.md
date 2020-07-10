@@ -4,24 +4,24 @@
 
 
 
-# - Descrição das Pastas
+# - 📁 Descrição das Pastas
 
 * ### Apresentações 
-             ➥Contém as apresentações desenvolvidas pelo grupo;
+             ➥ Contém as apresentações desenvolvidas pelo grupo;
 * ### Atas 
-             ➥Contém as ATAS desenvolvidas durante o projeto;
+             ➥ Contém as ATAS desenvolvidas durante o projeto;
 * ### CAD 
-             ➥Contém os projetos 3D e 2D das peças feitas no CATIA V5;
+             ➥ Contém os projetos 3D e 2D das peças feitas no CATIA V5;
 * ### Cálculos 
-             ➥Contém os cálculos aplicados e utilizados no projeto;
+             ➥ Contém os cálculos aplicados e utilizados no projeto;
 * ### Documentos
-             ➥Documentações importantes ao projeto;
+             ➥ Contém documentações importantes do projeto;
 * ### Imagens
-             ➥Contém todas imagens e templates referentes ao projeto;
+             ➥ Contém todas imagens e templates referentes ao projeto;
 
 
 
-# - Disciplinas integradas
+# - 📚 Disciplinas integradas
 
 * ### Projeto Integrador 
   Prof. Alexandre Zaramela
@@ -46,20 +46,20 @@
 
 
 
-# - Grupo
+# - 👥 Grupo: 
 
 * ### Ricardo Donizeti dos Santos - Líder/ Projetista
 * ### Paulo Rafael Ribeiro - Vice Líder/ Anotador
 * ### Thiago dos Reis Souza - Gestor/ Atas e diário e bordo
 
 
-# - Objetivo
+# - ✈ Objetivo:
 
 Desenvolver uma ferramenta para desmontagem e/ou instalação do Cilindro do motor Turbo Hélice IO-360-N1A, da Aeronave Embraer EMB-120.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Templates_Power_Point/Aviao_EMB_120_Exemplo.jpg)
 
-# - Ferramentas:
+# - 🔧 Ferramentas:
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Imagens_README/Perspectiva_A_README.png)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Imagens_README/Perspectiva_B_README.png)
