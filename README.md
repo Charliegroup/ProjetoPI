@@ -4,7 +4,8 @@
 
 
 
-## - Descrição das Pastas
+# - Descrição das Pastas
+
 * ### Apresentações 
   Contém as apresentações desenvolvidas pelo grupo;
 * ### Atas 
@@ -20,7 +21,8 @@
 
 
 
-## - Disciplinas integradas
+# - Disciplinas integradas
+
 * ### Projeto Integrador 
   Prof. Alexandre Zaramela
 * ### Familiarização Aeronáutica 
@@ -44,13 +46,14 @@
 
 
 
-## - Grupo
+# - Grupo
+
 * ### Ricardo Donizeti dos Santos - Líder/ Projetista
 * ### Paulo Rafael Ribeiro - Vice Líder/ Anotador
 * ### Thiago dos Reis Souza - Gestor/ Atas e diário e bordo
 
 
-## - Objetivo
+# - Objetivo
 
 Desenvolver uma ferramenta para desmontagem e/ou instalação do Cilindro do motor Turbo Hélice IO-360-N1A, da Aeronave Embraer EMB-120.
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
