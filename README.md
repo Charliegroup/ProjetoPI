@@ -2,7 +2,25 @@
 
 # Projeto Integrador 4.0 - Fatec São José dos Campos
 
-# - Disciplinas integradas
+
+
+## - Descrição das Pastas
+* ### Apresentações 
+  Contém as apresentações desenvolvidas pelo grupo;
+* ### Atas 
+  Contém as ATAS desenvolvidas durante o projeto;
+* ### CAD 
+  Contém os projetos 3D e 2D das peças feitas no CATIA V5;
+* ### Cálculos 
+  Contém os calculos aplicados e utilizados no projeto;
+* ### Documentos
+  Documentações importantes ao projeto;
+* ### Imagens
+  Contém todas imagens e templates referentes ao projeto;
+
+
+
+## - Disciplinas integradas
 * ### Projeto Integrador 
   Prof. Alexandre Zaramela
 * ### Familiarização Aeronáutica 
@@ -42,10 +60,3 @@ Desenvolver uma ferramenta para desmontagem e/ou instalação do Cilindro do mot
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Imagens_README/Perspectiva_A_README.png)⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Imagens_README/Perspectiva_B_README.png)
-
-# - Utilização:
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Imagens_README/Utilizacao_README.png)
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-![image](https://github.com/Charliegroup/ProjetoPI/blob/master/Projeto_Integrador_Grupo_Charlie/Imagens/Imagens_README/UtilizacaoREADME_2.png)
